@@ -1,0 +1,152 @@
+C:\Users\AF Internet\source\repos\hwSystem\hwSystem\bin\Debug\dbInventorySys.accdb
+C:\Users\AF Internet\source\repos\hwSystem\hwSystem\bin\Debug\hwSystem.exe.config
+C:\Users\AF Internet\source\repos\hwSystem\hwSystem\bin\Debug\hwSystem.exe
+C:\Users\AF Internet\source\repos\hwSystem\hwSystem\bin\Debug\hwSystem.pdb
+C:\Users\AF Internet\source\repos\hwSystem\hwSystem\bin\Debug\hwSystem.xml
+C:\Users\AF Internet\source\repos\hwSystem\hwSystem\obj\Debug\hwSystem.Resources.resources
+C:\Users\AF Internet\source\repos\hwSystem\hwSystem\obj\Debug\hwSystem.vbproj.GenerateResource.cache
+C:\Users\AF Internet\source\repos\hwSystem\hwSystem\obj\Debug\hwSystem.vbproj.CoreCompileInputs.cache
+C:\Users\AF Internet\source\repos\hwSystem\hwSystem\obj\Debug\hwSystem.exe
+C:\Users\AF Internet\source\repos\hwSystem\hwSystem\obj\Debug\hwSystem.xml
+C:\Users\AF Internet\source\repos\hwSystem\hwSystem\obj\Debug\hwSystem.pdb
+C:\Users\AF Internet\source\repos\hwSystem\hwSystem\obj\Debug\hwSystem.formAdminvb.resources
+C:\Users\AF Internet\source\repos\hwSystem\hwSystem\obj\Debug\hwSystem.formLogin.resources
+C:\Users\AF Internet\source\repos\hwSystem\hwSystem\obj\Debug\hwSystem.formViewEmployee.resources
+C:\Users\AF Internet\source\repos\hwSystem\hwSystem\obj\Debug\hwSystem.vbprojAssemblyReference.cache
+C:\Users\AF Internet\Desktop\hwSystem\hwSystem\bin\Debug\dbInventorySys.accdb
+C:\Users\AF Internet\Desktop\hwSystem\hwSystem\bin\Debug\hwSystem.exe.config
+C:\Users\AF Internet\Desktop\hwSystem\hwSystem\bin\Debug\hwSystem.exe
+C:\Users\AF Internet\Desktop\hwSystem\hwSystem\bin\Debug\hwSystem.pdb
+C:\Users\AF Internet\Desktop\hwSystem\hwSystem\bin\Debug\hwSystem.xml
+C:\Users\AF Internet\Desktop\hwSystem\hwSystem\obj\Debug\hwSystem.vbprojAssemblyReference.cache
+C:\Users\AF Internet\Desktop\hwSystem\hwSystem\obj\Debug\hwSystem.formAdminvb.resources
+C:\Users\AF Internet\Desktop\hwSystem\hwSystem\obj\Debug\hwSystem.formLogin.resources
+C:\Users\AF Internet\Desktop\hwSystem\hwSystem\obj\Debug\hwSystem.formViewEmployee.resources
+C:\Users\AF Internet\Desktop\hwSystem\hwSystem\obj\Debug\hwSystem.formViewProducts.resources
+C:\Users\AF Internet\Desktop\hwSystem\hwSystem\obj\Debug\hwSystem.Resources.resources
+C:\Users\AF Internet\Desktop\hwSystem\hwSystem\obj\Debug\hwSystem.vbproj.GenerateResource.cache
+C:\Users\AF Internet\Desktop\hwSystem\hwSystem\obj\Debug\hwSystem.vbproj.CoreCompileInputs.cache
+C:\Users\AF Internet\Desktop\hwSystem\hwSystem\obj\Debug\hwSystem.exe
+C:\Users\AF Internet\Desktop\hwSystem\hwSystem\obj\Debug\hwSystem.xml
+C:\Users\AF Internet\Desktop\hwSystem\hwSystem\obj\Debug\hwSystem.pdb
+C:\Users\Prodigyblues\Desktop\hwSystem\hwSystem\bin\Debug\dbInventorySys.accdb
+C:\Users\Prodigyblues\Desktop\hwSystem\hwSystem\bin\Debug\hwSystem.exe.config
+C:\Users\Prodigyblues\Desktop\hwSystem\hwSystem\bin\Debug\hwSystem.exe
+C:\Users\Prodigyblues\Desktop\hwSystem\hwSystem\bin\Debug\hwSystem.pdb
+C:\Users\Prodigyblues\Desktop\hwSystem\hwSystem\bin\Debug\hwSystem.xml
+C:\Users\Prodigyblues\Desktop\hwSystem\hwSystem\obj\Debug\hwSystem.vbprojAssemblyReference.cache
+C:\Users\Prodigyblues\Desktop\hwSystem\hwSystem\obj\Debug\hwSystem.formAdminvb.resources
+C:\Users\Prodigyblues\Desktop\hwSystem\hwSystem\obj\Debug\hwSystem.formLogin.resources
+C:\Users\Prodigyblues\Desktop\hwSystem\hwSystem\obj\Debug\hwSystem.formViewEmployee.resources
+C:\Users\Prodigyblues\Desktop\hwSystem\hwSystem\obj\Debug\hwSystem.formViewProducts.resources
+C:\Users\Prodigyblues\Desktop\hwSystem\hwSystem\obj\Debug\hwSystem.Resources.resources
+C:\Users\Prodigyblues\Desktop\hwSystem\hwSystem\obj\Debug\hwSystem.vbproj.GenerateResource.cache
+C:\Users\Prodigyblues\Desktop\hwSystem\hwSystem\obj\Debug\hwSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Prodigyblues\Desktop\hwSystem\hwSystem\obj\Debug\hwSystem.exe
+C:\Users\Prodigyblues\Desktop\hwSystem\hwSystem\obj\Debug\hwSystem.xml
+C:\Users\Prodigyblues\Desktop\hwSystem\hwSystem\obj\Debug\hwSystem.pdb
+E:\AF Internet\hwSystem V2\hwSystem\bin\Debug\dbInventorySys.accdb
+E:\AF Internet\hwSystem V2\hwSystem\obj\Debug\hwSystem.formAdminvb.resources
+E:\AF Internet\hwSystem V2\hwSystem\obj\Debug\hwSystem.formLogin.resources
+E:\AF Internet\hwSystem V2\hwSystem\obj\Debug\hwSystem.formTransaction.resources
+E:\AF Internet\hwSystem V2\hwSystem\obj\Debug\hwSystem.formViewEmployee.resources
+E:\AF Internet\hwSystem V2\hwSystem\obj\Debug\hwSystem.formViewProducts.resources
+E:\AF Internet\hwSystem V2\hwSystem\obj\Debug\hwSystem.Resources.resources
+E:\AF Internet\hwSystem V2\hwSystem\obj\Debug\hwSystem.vbproj.GenerateResource.cache
+E:\AF Internet\hwSystem V2\hwSystem\obj\Debug\hwSystem.vbproj.CoreCompileInputs.cache
+E:\AF Internet\hwSystem V2\hwSystem\bin\Debug\hwSystem.exe.config
+E:\AF Internet\hwSystem V2\hwSystem\bin\Debug\hwSystem.exe
+E:\AF Internet\hwSystem V2\hwSystem\bin\Debug\hwSystem.pdb
+E:\AF Internet\hwSystem V2\hwSystem\bin\Debug\hwSystem.xml
+E:\AF Internet\hwSystem V2\hwSystem\obj\Debug\hwSystem.exe
+E:\AF Internet\hwSystem V2\hwSystem\obj\Debug\hwSystem.xml
+E:\AF Internet\hwSystem V2\hwSystem\obj\Debug\hwSystem.pdb
+E:\AF Internet\hwSystem V2\hwSystem\obj\Debug\hwSystem.formSales.resources
+E:\AF Internet\hwSystem V2\hwSystem\obj\Debug\hwSystem.vbprojAssemblyReference.cache
+E:\AF Internet\hwSystem V2\hwSystem\obj\Debug\Interop.ADODB.dll
+E:\AF Internet\hwSystem V2\hwSystem\obj\Debug\hwSystem.vbproj.ResolveComReference.cache
+C:\Users\Ryan\Desktop\prog\hwSystem V2\hwSystem\bin\Debug\hwSystem.exe.config
+C:\Users\Ryan\Desktop\prog\hwSystem V2\hwSystem\obj\Debug\Interop.ADODB.dll
+C:\Users\Ryan\Desktop\prog\hwSystem V2\hwSystem\obj\Debug\hwSystem.vbproj.ResolveComReference.cache
+C:\Users\Ryan\Desktop\prog\hwSystem V2\hwSystem\obj\Debug\hwSystem.exe
+C:\Users\Ryan\Desktop\prog\hwSystem V2\hwSystem\obj\Debug\hwSystem.xml
+C:\Users\Ryan\Desktop\prog\hwSystem V2\hwSystem\obj\Debug\hwSystem.pdb
+C:\Users\Ryan\Desktop\prog\hwSystem V2\hwSystem\bin\Debug\dbInventorySys.accdb
+C:\Users\Ryan\Desktop\prog\hwSystem V2\hwSystem\bin\Debug\hwSystem.exe
+C:\Users\Ryan\Desktop\prog\hwSystem V2\hwSystem\bin\Debug\hwSystem.pdb
+C:\Users\Ryan\Desktop\prog\hwSystem V2\hwSystem\bin\Debug\hwSystem.xml
+C:\Users\Ryan\Desktop\prog\hwSystem V2\hwSystem\obj\Debug\hwSystem.formAdminvb.resources
+C:\Users\Ryan\Desktop\prog\hwSystem V2\hwSystem\obj\Debug\hwSystem.formLogin.resources
+C:\Users\Ryan\Desktop\prog\hwSystem V2\hwSystem\obj\Debug\hwSystem.formSales.resources
+C:\Users\Ryan\Desktop\prog\hwSystem V2\hwSystem\obj\Debug\hwSystem.formTransaction.resources
+C:\Users\Ryan\Desktop\prog\hwSystem V2\hwSystem\obj\Debug\hwSystem.formViewEmployee.resources
+C:\Users\Ryan\Desktop\prog\hwSystem V2\hwSystem\obj\Debug\hwSystem.formViewProducts.resources
+C:\Users\Ryan\Desktop\prog\hwSystem V2\hwSystem\obj\Debug\hwSystem.Resources.resources
+C:\Users\Ryan\Desktop\prog\hwSystem V2\hwSystem\obj\Debug\hwSystem.vbproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\prog\hwSystem V2\hwSystem\obj\Debug\hwSystem.vbprojAssemblyReference.cache
+C:\Users\Ryan\Desktop\prog\hwSystem V2\hwSystem\obj\Debug\hwSystem.vbproj.CoreCompileInputs.cache
+E:\AF Internet\hwSystem V3.1 may design na boiz\hwSystem\bin\Debug\dbInventorySys.accdb
+E:\AF Internet\hwSystem V3.1 may design na boiz\hwSystem\bin\Debug\hwSystem.exe.config
+E:\AF Internet\hwSystem V3.1 may design na boiz\hwSystem\bin\Debug\hwSystem.exe
+E:\AF Internet\hwSystem V3.1 may design na boiz\hwSystem\bin\Debug\hwSystem.pdb
+E:\AF Internet\hwSystem V3.1 may design na boiz\hwSystem\bin\Debug\hwSystem.xml
+E:\AF Internet\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\Interop.ADODB.dll
+E:\AF Internet\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.vbproj.ResolveComReference.cache
+E:\AF Internet\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formAdminvb.resources
+E:\AF Internet\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formLogin.resources
+E:\AF Internet\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formSales.resources
+E:\AF Internet\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formTransaction.resources
+E:\AF Internet\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formViewEmployee.resources
+E:\AF Internet\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formViewProducts.resources
+E:\AF Internet\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.Resources.resources
+E:\AF Internet\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.vbproj.GenerateResource.cache
+E:\AF Internet\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.vbproj.CoreCompileInputs.cache
+E:\AF Internet\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.exe
+E:\AF Internet\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.xml
+E:\AF Internet\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.pdb
+E:\AF Internet\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formReceipt.resources
+E:\AF Internet\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.vbprojAssemblyReference.cache
+C:\Users\Ryan\Desktop\prog\hwSystem V3.1 kulangReportSaProducts\hwSystem V3.1 may design na boiz\hwSystem\bin\Debug\dbInventorySys.accdb
+C:\Users\Ryan\Desktop\prog\hwSystem V3.1 kulangReportSaProducts\hwSystem V3.1 may design na boiz\hwSystem\bin\Debug\hwSystem.exe.config
+C:\Users\Ryan\Desktop\prog\hwSystem V3.1 kulangReportSaProducts\hwSystem V3.1 may design na boiz\hwSystem\bin\Debug\hwSystem.exe
+C:\Users\Ryan\Desktop\prog\hwSystem V3.1 kulangReportSaProducts\hwSystem V3.1 may design na boiz\hwSystem\bin\Debug\hwSystem.pdb
+C:\Users\Ryan\Desktop\prog\hwSystem V3.1 kulangReportSaProducts\hwSystem V3.1 may design na boiz\hwSystem\bin\Debug\hwSystem.xml
+C:\Users\Ryan\Desktop\prog\hwSystem V3.1 kulangReportSaProducts\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.vbprojAssemblyReference.cache
+C:\Users\Ryan\Desktop\prog\hwSystem V3.1 kulangReportSaProducts\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\Interop.ADODB.dll
+C:\Users\Ryan\Desktop\prog\hwSystem V3.1 kulangReportSaProducts\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.vbproj.ResolveComReference.cache
+C:\Users\Ryan\Desktop\prog\hwSystem V3.1 kulangReportSaProducts\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formAdminvb.resources
+C:\Users\Ryan\Desktop\prog\hwSystem V3.1 kulangReportSaProducts\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formLogin.resources
+C:\Users\Ryan\Desktop\prog\hwSystem V3.1 kulangReportSaProducts\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formReceipt.resources
+C:\Users\Ryan\Desktop\prog\hwSystem V3.1 kulangReportSaProducts\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formReportProducts.resources
+C:\Users\Ryan\Desktop\prog\hwSystem V3.1 kulangReportSaProducts\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formSales.resources
+C:\Users\Ryan\Desktop\prog\hwSystem V3.1 kulangReportSaProducts\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formTransaction.resources
+C:\Users\Ryan\Desktop\prog\hwSystem V3.1 kulangReportSaProducts\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formViewEmployee.resources
+C:\Users\Ryan\Desktop\prog\hwSystem V3.1 kulangReportSaProducts\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formViewProducts.resources
+C:\Users\Ryan\Desktop\prog\hwSystem V3.1 kulangReportSaProducts\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.Resources.resources
+C:\Users\Ryan\Desktop\prog\hwSystem V3.1 kulangReportSaProducts\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.vbproj.GenerateResource.cache
+C:\Users\Ryan\Desktop\prog\hwSystem V3.1 kulangReportSaProducts\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\prog\hwSystem V3.1 kulangReportSaProducts\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.exe
+C:\Users\Ryan\Desktop\prog\hwSystem V3.1 kulangReportSaProducts\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.xml
+C:\Users\Ryan\Desktop\prog\hwSystem V3.1 kulangReportSaProducts\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.pdb
+E:\AF Internet\hwSystem V3.1.1 goodluck boiz\hwSystem V3.1 may design na boiz\hwSystem\bin\Debug\dbInventorySys.accdb
+E:\AF Internet\hwSystem V3.1.1 goodluck boiz\hwSystem V3.1 may design na boiz\hwSystem\bin\Debug\hwSystem.exe.config
+E:\AF Internet\hwSystem V3.1.1 goodluck boiz\hwSystem V3.1 may design na boiz\hwSystem\bin\Debug\hwSystem.exe
+E:\AF Internet\hwSystem V3.1.1 goodluck boiz\hwSystem V3.1 may design na boiz\hwSystem\bin\Debug\hwSystem.pdb
+E:\AF Internet\hwSystem V3.1.1 goodluck boiz\hwSystem V3.1 may design na boiz\hwSystem\bin\Debug\hwSystem.xml
+E:\AF Internet\hwSystem V3.1.1 goodluck boiz\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\Interop.ADODB.dll
+E:\AF Internet\hwSystem V3.1.1 goodluck boiz\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.vbproj.ResolveComReference.cache
+E:\AF Internet\hwSystem V3.1.1 goodluck boiz\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formAdminvb.resources
+E:\AF Internet\hwSystem V3.1.1 goodluck boiz\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formLogin.resources
+E:\AF Internet\hwSystem V3.1.1 goodluck boiz\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formReceipt.resources
+E:\AF Internet\hwSystem V3.1.1 goodluck boiz\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formSales.resources
+E:\AF Internet\hwSystem V3.1.1 goodluck boiz\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formTransaction.resources
+E:\AF Internet\hwSystem V3.1.1 goodluck boiz\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formViewEmployee.resources
+E:\AF Internet\hwSystem V3.1.1 goodluck boiz\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formViewProducts.resources
+E:\AF Internet\hwSystem V3.1.1 goodluck boiz\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.Resources.resources
+E:\AF Internet\hwSystem V3.1.1 goodluck boiz\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.vbproj.GenerateResource.cache
+E:\AF Internet\hwSystem V3.1.1 goodluck boiz\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.vbproj.CoreCompileInputs.cache
+E:\AF Internet\hwSystem V3.1.1 goodluck boiz\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.exe
+E:\AF Internet\hwSystem V3.1.1 goodluck boiz\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.xml
+E:\AF Internet\hwSystem V3.1.1 goodluck boiz\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.pdb
+E:\AF Internet\hwSystem V3.1.1 goodluck boiz\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.formSalesReport.resources
+E:\AF Internet\hwSystem V3.1.1 goodluck boiz\hwSystem V3.1 may design na boiz\hwSystem\obj\Debug\hwSystem.vbprojAssemblyReference.cache
